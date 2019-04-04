@@ -1,29 +1,45 @@
 {
-	"Education": [
-		"B.Tech from Veermata Jijabai Technological Institute",
-		"Dipoma from Vivekanand Education Society, Chembur",
-		"SSC from Fatima High School"
-	],
-	"Past Experience": [""],
-	"Tech Stack": [
-		"JavaScript",
-		"NodeJS",
-		"HTML",
-		"CSS",
-		"Bootstrap",
-		"PHP",
-		"Blockchain"
-	],
-	"Projects": [
-		"Sass starter Pack",
-		"WhatsApp Broadcast",
-		"GitHub User Finder",
-		"Flappy Bird",
-		"Wikipedia Viewer",
-		"Currency Converter",
-		"Real Time Chat App",
-		"CMS",
-		"Fruit Ninja Game"
-	],
-	"Contact": ["varlyanijatin88@gmail.com"]
+    "Education": [
+        "B.Tech in IT from Veermata Jijabai Technological Institute",
+        "Dipoma in CE from Vivekanand Education Society, Chembur",
+        "SSC from Fatima High School"
+    ],
+
+    "About Me": [
+        "Passionate and Self-motivated Full-Stack Developer with experience in modern technologies. Able to design, develop and implement web applications."
+    ],
+
+    "Past Experience": [""],
+    "Skills": [
+        "JavaScript",
+        "NodeJS",
+        "ReactJS",
+        "Express",
+        "Flask",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "PHP",
+        "Java",
+        "Data Structure",
+        "Blockchain"
+    ],
+
+    "Projects": [
+        "Sass starter Pack",
+        "WhatsApp Broadcast",
+        "GitHub User Finder",
+        "Flappy Bird",
+        "Wikipedia Viewer",
+        "Currency Converter",
+        "Real Time Chat App",
+        "Chrome Extension",
+        "Blog in Laravel",
+        "Speed Typing Game",
+        "Blood Bank"
+    ],
+
+    
+
+    "Contact": ["varlyanijatin88@gmail.com"]
 }
