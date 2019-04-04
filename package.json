@@ -23,6 +23,6 @@
         "url": "https://github.com/Jatin-8898/resume-cli/issues"
     },
     "bin": {
-        "jatin-name": "./index.js"
+        "jatin-resume": "./index.js"
     }
 }
