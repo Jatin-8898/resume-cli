@@ -1,2 +1,2 @@
-# resume-cli
+# Resume
 My resume in CLI way
